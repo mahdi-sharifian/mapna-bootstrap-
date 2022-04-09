@@ -1,0 +1,12 @@
+$myfont: 'Vazir', sans-serif;
+$mydir: rtl;
+$red-bar:rgb(183, 26, 27);
+
+
+body{
+    font-family: $myfont;
+    direction: $mydir;
+}
+.red-bar{
+    background-color: $red-bar;
+}
